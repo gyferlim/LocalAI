@@ -21,12 +21,13 @@ Kairos (formerly `c3os`) is an open-source project which brings Edge, cloud, and
 
 ## At-a-glance:
 
-- :bowtie: Community Driven
-- :octocat: Open Source
-- :lock: Linux immutable, meta-distribution
-- :key: Secure
-- :whale: Container-based
-- :penguin: Distribution agnostic
+- 🎀 Community Driven
+- 🐙 Open Source
+- 🔒 Linux immutable, meta-distribution
+- 🔑 Secure
+- 🐳 Container-based
+- 🐧 Distribution agnostic
+
 
 ## Kairos can be used to:
 
